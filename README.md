@@ -12,8 +12,6 @@ Dashboard de análise de vendas com KPIs, evolução temporal e segmentação po
 ### 👥 RH Dashboard
 Análise de colaboradores, turnover e indicadores de RH.
 
-### 💰 Financial Dashboard
-Indicadores financeiros, receitas, despesas e rentabilidade.
 
 ## Ferramentas Utilizadas
 
